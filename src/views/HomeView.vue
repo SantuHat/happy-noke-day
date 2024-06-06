@@ -1,22 +1,22 @@
 <template>
   <div class="container bg_img pt-100">
       <div class="col-10 col-md-8 mx-auto d-flex flex-column gap ">
-        <RouterLink to="/" class="">
+        <RouterLink to="/a" class="">
           <img class="d-block w-100 " src="../../public/A02_按鈕_完整DM.png" alt="">
         </RouterLink>
-        <RouterLink to="/" class="">
+        <RouterLink to="/b" class="">
           <img class="d-block w-100" src="../../public/A02_按鈕_檔期活動.png" alt="">
         </RouterLink>
-        <RouterLink to="/" class="">
+        <RouterLink to="/c" class="">
           <img class="d-block w-100" src="../../public/A02_按鈕_買一送一專區.png" alt="">
         </RouterLink>
-        <RouterLink to="/" class="">
+        <RouterLink to="/d" class="">
           <img class="d-block w-100" src="../../public/A02_按鈕_111元起專區.png" alt="">
         </RouterLink>
-        <RouterLink to="/" class="">
+        <RouterLink to="/e" class="">
           <img class="d-block w-100" src="../../public/A02_按鈕_時髦獨具.png" alt="">
         </RouterLink>
-        <RouterLink to="/" class="">
+        <RouterLink to="/f" class="">
           <img class="d-block w-100 pb-4" src="../../public/A02_按鈕_歡享佳餚.png" alt="">
         </RouterLink>
       </div>
