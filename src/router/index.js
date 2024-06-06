@@ -7,33 +7,33 @@ const routes = [
     component: () => import('../views/HomeView.vue')
   },
   {
-    path: '/a',
-    name: 'About',
+    path: '/完整DM',
+    name: '完整DM',
     component: () => import('../views/AView.vue')
   },
   {
-    path: '/b',
-    name: 'b',
+    path: '/檔期活動',
+    name: '檔期活動',
     component: () => import('../views/BView.vue')
   },
   {
-    path: '/c',
-    name: 'c',
+    path: '/買一送一專區',
+    name: '買一送一專區',
     component: () => import('../views/CView.vue')
   },
   {
-    path: '/d',
-    name: 'd',
+    path: '/111元起專區',
+    name: '111元起專區',
     component: () => import('../views/DView.vue')
   },
   {
-    path: '/e',
-    name: 'e',
+    path: '/時髦獨具',
+    name: '時髦獨具',
     component: () => import('../views/EView.vue')
   },
   {
-    path: '/f',
-    name: 'f',
+    path: '/歡享佳餚',
+    name: '歡享佳餚',
     component: () => import('../views/FView.vue')
   }
 ]
